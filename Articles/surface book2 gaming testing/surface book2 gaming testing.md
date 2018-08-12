@@ -15,7 +15,7 @@
 
 独显`GTX 1050`参数。
 
-![GTX-1050]()
+![GTX-1050](https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/SB2-GPUZ.PNG)
 
 核心频率1354，显存频率1752。显存2GB。
 我们最需要关注的是，游戏在运行一段时间之后，GPU的频率是否会低于这个频率，以及会低多少。
@@ -31,17 +31,17 @@
 * 游戏分辨率`1920*1200`。PBUG并不支持3:2的分辨率，所以只能调到一个最接近3:2的分辨率，让画面的拉伸看起来不那么巨大。
 * 画面质量设置：低。
 
-![Settings]()
+![Settings](https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/Settings.jpg)
 
 **测试结果**
 
 游戏5分钟帧数
 
-![PBUG-Frames]()
+![PBUG-Frames](https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/PUBG-Frames.png)
 
 GPU-Z的显卡运行状态。
 
-![PBUG-GPU status]()
+![PBUG-GPU status](https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/PBUG-GPUZ.PNG)
 
 显卡核心频率运行在1400MHz-1500MHz，温度60-65徘徊。
 
