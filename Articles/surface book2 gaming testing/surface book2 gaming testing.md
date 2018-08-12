@@ -15,7 +15,7 @@
 
 独显`GTX 1050`参数。
 
-<img src="https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/SB2-GPUZ.PNG" alt="GTX-1050" style="max-width:50%;">
+<img src="https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/SB2-GPUZ.PNG" alt="GTX-1050" width="50%">
 
 核心频率1354，显存频率1752。显存2GB。
 我们最需要关注的是，游戏在运行一段时间之后，GPU的频率是否会低于这个频率，以及会低多少。
@@ -31,17 +31,17 @@
 * 游戏分辨率`1920*1200`。PUBG并不支持3:2的分辨率，所以只能调到一个最接近3:2的分辨率，让画面的拉伸看起来不那么巨大。
 * 画面质量设置：低。
 
-<img src="https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/Settings.jpg" alt="Settings" style="max-width:100%;">
+<img src="https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/Settings.jpg" alt="Settings" width="100%">
 
 **测试结果**
 
 游戏5分钟帧数。从跳伞开始记录帧数。落地后帧数稳定在50-60fps。
 
-<img src="https://github.com/yangyangxian/IDesk/raw/master/Articles/surface%20book2%20gaming%20testing/images/PUBG-Frames.png" alt="PUBG-Frames" style="max-width:80%;">
+<img src="https://github.com/yangyangxian/IDesk/raw/master/Articles/surface%20book2%20gaming%20testing/images/PUBG-Frames.png" alt="PUBG-Frames" width="80%">
 
 GPU-Z的显卡运行状态：
 
-<img src="https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/PUBG-GPUZ.PNG" alt="PUBG-GPU status" style="max-width:50%;">
+<img src="https://github.com/yangyangxian/IDesk/blob/master/Articles/surface%20book2%20gaming%20testing/images/PUBG-GPUZ.PNG" alt="PUBG-GPU status" width="50%">
 
 显卡核心频率运行在1400MHz-1500MHz，温度60-65徘徊。极偶尔频率能到1600MHz以上，温度会上升到70度。
 
